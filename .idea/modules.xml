@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidFormUtil.iml" filepath="$PROJECT_DIR$/AndroidFormUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/form-util/form-util.iml" filepath="$PROJECT_DIR$/form-util/form-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ream-form-annotations/maria-form-annotations.iml" filepath="$PROJECT_DIR$/ream-form-annotations/maria-form-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ream-form-compiler/maria-form-compiler.iml" filepath="$PROJECT_DIR$/ream-form-compiler/maria-form-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ream-form-annotations/ream-form-annotations.iml" filepath="$PROJECT_DIR$/ream-form-annotations/ream-form-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ream-form-compiler/ream-form-compiler.iml" filepath="$PROJECT_DIR$/ream-form-compiler/ream-form-compiler.iml" />
+    </modules>
+  </component>
+</project>
